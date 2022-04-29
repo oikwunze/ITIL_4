@@ -28,6 +28,20 @@ Opportunity/Demand----->Service Value Chain----->Value
                        -Governance
                        -Practices
                        -Continual improvement
+                       
+                       
+_______________________________________________________________________________________________________________
+
+
+Session 1 | ITIL Overview
+
+ITIL (Information Technology Infrastructure Library) is a framework consisting of best
+practices and processes that can be adopted in order to provide IT service management
+(ITSM)
+
+
+Five Stages of the ITIL Service Lifecycle
+-Service Strategy 
 
 
 ```
