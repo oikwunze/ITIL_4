@@ -41,7 +41,8 @@ practices and processes that can be adopted in order to provide IT service manag
 
 
 Five Stages of the ITIL Service Lifecycle
--Service Strategy 
+![ITIL_Service_LifeCycle](https://user-images.githubusercontent.com/52090888/166148920-a9f43266-aa20-4a9d-bc1e-4043a06405a7.jpg)
+
 
 
 ```
