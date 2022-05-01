@@ -91,6 +91,14 @@ Five Stages of the ITIL Service Lifecycle
 
 
 
+![Screen Shot 2022-05-01 at 2 47 07 PM](https://user-images.githubusercontent.com/52090888/166162933-a8329bfe-c8f1-4208-9389-31e8f15ac976.png)
+![Screen Shot 2022-05-01 at 2 49 59 PM](https://user-images.githubusercontent.com/52090888/166162936-54090422-931b-44b5-a36d-12862b3a0f11.png)
+![Screen Shot 2022-05-01 at 2 50 49 PM](https://user-images.githubusercontent.com/52090888/166162937-1bf5aec3-255b-4b4e-ba08-ac1e3444383f.png)
+![Screen Shot 2022-05-01 at 3 12 01 PM](https://user-images.githubusercontent.com/52090888/166162938-a0d704d6-287a-4ede-bfc3-95d5dbb6de6b.png)
+
+
+
+
 
 
 
