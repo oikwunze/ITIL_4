@@ -46,7 +46,7 @@ Five Stages of the ITIL Service Lifecycle
 
 ![ITIL_Service_LifeCycle](https://user-images.githubusercontent.com/52090888/166148965-ff88edc7-0f6a-4047-b2b4-c21ae9d7bac7.jpg)
 
-```
+
 
 ![Service_Strategy](https://user-images.githubusercontent.com/52090888/166149344-658aa3b1-2be0-4eaf-bfcd-2aaf42f49f5b.jpg)
 
@@ -54,6 +54,6 @@ Five Stages of the ITIL Service Lifecycle
 
 
 
-```
+
 
 
