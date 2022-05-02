@@ -150,3 +150,15 @@ Five Stages of the ITIL Service Lifecycle
 ![Screen Shot 2022-05-01 at 6 38 45 PM](https://user-images.githubusercontent.com/52090888/166169823-1bf4cc35-ba8e-42b0-b339-632c829acb44.png)
 ![Screen Shot 2022-05-01 at 6 47 39 PM](https://user-images.githubusercontent.com/52090888/166169824-c9ed2fa3-9a7c-4bb0-8cf0-b238073412e3.png)
 ![Screen Shot 2022-05-01 at 6 49 29 PM](https://user-images.githubusercontent.com/52090888/166169826-f2ce83ad-53ac-4549-8a26-e31287d15e46.png)
+![Screen Shot 2022-05-01 at 7 00 27 PM](https://user-images.githubusercontent.com/52090888/166171321-9cc167e6-6d8d-4126-a28f-e54aa7b07222.png)
+
+![Screen Shot 2022-05-01 at 7 02 23 PM](https://user-images.githubusercontent.com/52090888/166171325-98d9a14b-f570-46d3-b6fb-86f224c59d14.png)
+![Screen Shot 2022-05-01 at 7 15 01 PM](https://user-images.githubusercontent.com/52090888/166171327-36895209-6c18-4178-946b-0a0799b68d66.png)
+![Screen Shot 2022-05-01 at 7 15 32 PM](https://user-images.githubusercontent.com/52090888/166171329-0fa58052-aa0f-41ce-87a5-3bf0eb0f55a8.png)
+![Screen Shot 2022-05-01 at 7 20 29 PM](https://user-images.githubusercontent.com/52090888/166171330-896b5aa1-184f-478e-aa7f-aece61fe8651.png)
+![Screen Shot 2022-05-01 at 7 25 29 PM](https://user-images.githubusercontent.com/52090888/166171331-0af66166-d8d5-402c-a5e1-22b9aa473397.png)
+![Screen Shot 2022-05-01 at 7 31 31 PM](https://user-images.githubusercontent.com/52090888/166171324-93ba7736-3f08-478f-b928-2a0bf46adce0.png)
+
+
+
+
