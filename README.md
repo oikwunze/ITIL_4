@@ -203,5 +203,13 @@ hot 2022-05-01 at 9 51 28 PM](https://user-images.githubusercontent.com/52090888
 ![Screen Shot 2022-05-01 at 10 42 36 PM](https://user-images.githubusercontent.com/52090888/166181937-5ae02beb-a716-4343-b96e-c4e4425c657f.png)
 ![Screen Shot 2022-05-01 at 10 46 05 PM](https://user-images.githubusercontent.com/52090888/166181938-2c297a00-9bfd-454c-8411-bfd055725637.png)
 
+```
+Six Sigma --- How to reduce error and defect
+Scrum ---  Facilitates all the communication and collaboration between leadership and team players to ensure a successful outcome.
+Agile --- Scrum is a subset of Agile. It is a lightweight process framework for agile development, and the most widely-used one.
+          Agile involves collaborations and face-to-face interactions between the members of various cross-functional teams whereas Scrum collaboration is achieved in            daily stand up meetings.
+Lean --- Lean is a way of thinking about creating needed value with fewer resources and less waste
 
+
+```
 
