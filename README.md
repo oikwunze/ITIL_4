@@ -213,3 +213,25 @@ Lean --- Lean is a way of thinking about creating needed value with fewer resour
 
 ```
 
+```
+RACI Matrix
+
+Responsible: The person who does the work to achieve the task. As a rule, 
+this is one person; examples might be a business analyst, 
+application developer or technical architect. 
+They have responsibility for getting the work done or decisions made.
+
+Accountable: The person who is responsible for the correct and thorough completion of the task. 
+This role must be one person and is often the project executive or project sponsor. 
+This role is in the role that responsible is accountable to and approves their work.
+
+Consulted: The people who provide information for the project and 
+with whom there is two-way communication. 
+This role is usually several people, often subject matter experts.
+
+Informed: The people kept informed of progress and with whom there is one-way communication. 
+These are people affected by the outcome of the tasks, so they need to be kept up to date.
+
+
+```
+
